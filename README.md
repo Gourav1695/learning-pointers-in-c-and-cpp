@@ -1,1 +1,1 @@
-# learning-pointers-in-c-c-
+# learning pointers in c and cpp
